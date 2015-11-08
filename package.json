@@ -1,0 +1,16 @@
+{
+  "name": "node-promise-scheduler",
+  "version": "1.0.0",
+  "description": "A basic promise scheduler that enables parallel promise execution with a load treshold",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sanosay/node-promise-scheduler.git"
+  },
+  "author": "Sanosay's Products",
+  "license": "MIT"
+}
