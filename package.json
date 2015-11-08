@@ -2,6 +2,13 @@
   "name": "node-promise-scheduler",
   "version": "1.0.0",
   "description": "A basic promise scheduler that enables parallel promise execution with a load threshold",
+   "keywords":[
+    "promise",
+    "scheduler",
+    "delay",
+    "parallel",
+    "schedule"
+  ],
   "main": "index.js",
   "scripts": {
 
